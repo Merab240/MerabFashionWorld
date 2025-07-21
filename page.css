@@ -1,0 +1,30 @@
+body {
+    background-color: lightseagreen;
+    
+}
+
+h1{
+  
+    margin-left: 50px;
+}
+img {
+    margin-left: 50px;
+}
+h2 {
+    
+    margin-left: 50px;
+}
+h3 {
+    color: brown;
+    margin-left: 50px;
+    
+}
+p {
+    color: white;
+}
+ul {
+    color: blue;
+}
+ol {
+    color: white;
+}
